@@ -12,6 +12,6 @@
 <div><a>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </a></div>
-<a href="https://google.com/geovanalvesfaleiro@gmail.com" target="_blank">
+<a href="https://gmail.com/geovanalvesfaleiro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>  
